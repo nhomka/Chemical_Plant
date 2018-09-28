@@ -1,0 +1,12 @@
+This project is a fun personal project based on my senior project in 2012.  The goal here is to design a chemical plant
+which produces lactic acid in such a way that we can optimize the net profit of the plant based on a given set of input
+conditions (prices, output requirements, etc).  I'm looking to see how much of an improvement I can get over the extremely
+tedious mix of hand calculations and Excel spreadsheets we had to update/perform any time a change was made.
+
+This is very much a work in progress, Fermentation and Liquid-Liquid-Extraction are the only two major components that have 
+been implemented.  For now, things are fairly hard-coded for the lactic-acid scenario until I can get the basics of the 
+overall plant lined up to help figure out the best way to build the components and fluid streams for general usage.
+
+First things first I'll be trying to get comments added, as I understand that as is it's fairly unintelligible.
+
+Currently, to see what's working so far, you can run the LLE file.
